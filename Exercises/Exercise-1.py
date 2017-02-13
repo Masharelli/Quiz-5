@@ -9,3 +9,4 @@ A = int(input("Ingrese el primer numero: "))
 B = int(input("Ingrese el segundo numero: " ))
 
 print (max(A,B))
+
