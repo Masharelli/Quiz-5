@@ -9,4 +9,4 @@ def overlapping(li1, li2):
 if __name__ == "__main__":
     print overlapping([1, 2], [3, 4])
     print overlapping([1, 2], [2, 3])
-    print overlapping(['a', 'b', 'c'], ['c', 'd'])
+    print overlapping(['a', 'b', 'c'], ['c', 'd']) 	
